@@ -1,0 +1,26 @@
+# Binaries
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.test
+
+# Go build cache
+*.h
+go.sum
+
+# Development
+cpu.prof
+mem.prof
+*.prof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
